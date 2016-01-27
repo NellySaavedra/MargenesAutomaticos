@@ -1,12 +1,70 @@
+body {
+	 background-image: url("http://sergimateo.com/wp-content/2012/12/madera-1.jpg");
+}
 div {
-	height: 190px;
-	width: 200px;
+	height: 200px;
+	width: 210px;
 	border: 15px solid yellow;
 	padding: 27px 40px;
+	margin: 20px 55px;
+	display: inline-block;
 }
+p{
+	font-family: Arial;
+	color: white;
+}
+	
 .div1 p{
 	text-align: center;
+	}
+.div1{
+	background-image: url("http://image5.tuku.cn/wallpaper/Still%20Lifes%20Wallpapers/10913_1280x800.jpg");
+}
+.inter p{
+	text-align: center;
+	color: 	#E0FFFF;
+	font-family: Gungsuh;
+	font-size: 30px;
+}
+.inter {
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQtCgus9YqnC6QyfKNVcgAZD48jrUs9Th2mXXt59rhKzWBFV4caA");
+	border-color: #FFA500;
 }
 .div2{
-	margin: auto;
+	background-image: url("http://image5.tuku.cn/wallpaper/Still%20Lifes%20Wallpapers/10910_1280x800.jpg");
+}
+.texto{
+	color: white;
+	text-align: center;
+	font-family: Gungsuh;
+	font-size: 20px;
+	border: 15px solid yellow;
+	background-color: black;
+	padding: 30px 15px;
+	margin: 20px 40px;
+}
+
+img {
+	width: 500px; 
+	height: 100px;
+}
+.imglab {
+	width: 500px; 
+	height: 100px;
+	padding: 10px;
+	border: 5px solid yellow;
+	margin-left: 26%;
+}
+.fotochicas img {
+	width: 450px;
+	height: 350px;
+	border-radius: 100%;
+}
+.fotochicas{
+	width: 450px;
+	height: 350px;
+	padding: 1px;
+	border: 5px solid yellow;
+	border-radius: 100%;
+	margin-left: 28%;
 }
