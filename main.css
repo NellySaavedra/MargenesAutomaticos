@@ -1,0 +1,12 @@
+div {
+	height: 190px;
+	width: 200px;
+	border: 15px solid yellow;
+	padding: 27px 40px;
+}
+.div1 p{
+	text-align: center;
+}
+.div2{
+	margin: auto;
+}
